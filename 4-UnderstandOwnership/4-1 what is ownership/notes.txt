@@ -1,0 +1,3 @@
+read till that line 
+
+amount of text that is unknown to us at compile time. You can create a String from a string literal using the from function, like so:
